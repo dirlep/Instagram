@@ -1,5 +1,5 @@
 # Instagram
 
-Esse é um clone visual da página de Login do Instagram feito para um projeto da Digital Innovation One. 
+Esse é um projeto de estudo do curso da Digital Innovation One de um clone visual da página de Login do Instagram. 
 
-Projeto feito com HTML5 e CSS3. 
+Feito com HTML5 e CSS3. 
